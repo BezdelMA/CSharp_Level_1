@@ -11,18 +11,16 @@ namespace _3
     {
         public int x;
         public int y;
-        public Random rnd = new Random();
 
-        public Point ()
+        public Point (Random rnd)
         {
-            GetRandom();
+            GetRandom(rnd);
         }
 
-        public void GetRandom ()
+        public void GetRandom (Random rnd)
         {
             x = rnd.Next(1, 100);
             y = rnd.Next(1, 30);
-            Thread.Sleep(15);
         }
 
         internal void Show(int _x, int _y, int i)

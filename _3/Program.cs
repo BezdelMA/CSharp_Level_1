@@ -14,8 +14,9 @@ namespace _3
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point();
-            Point p2 = new Point();
+            Random rnd = new Random();
+            Point p1 = new Point(rnd);
+            Point p2 = new Point(rnd);
 
             p1.Show(p1.x, p1.y, 1);
             p2.Show(p2.x, p2.y, 2);
