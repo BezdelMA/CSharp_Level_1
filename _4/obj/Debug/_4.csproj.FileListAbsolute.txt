@@ -1,0 +1,14 @@
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\bin\Debug\_4.exe.config
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\bin\Debug\_4.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\bin\Debug\_4.pdb
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\obj\Debug\_4.csprojAssemblyReference.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\obj\Debug\_4.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\obj\Debug\_4.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_4\obj\Debug\_4.pdb
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\bin\Debug\_4.exe.config
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\bin\Debug\_4.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\bin\Debug\_4.pdb
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\obj\Debug\_4.csprojAssemblyReference.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\obj\Debug\_4.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\obj\Debug\_4.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\CSharp_Level_1\_4\obj\Debug\_4.pdb
