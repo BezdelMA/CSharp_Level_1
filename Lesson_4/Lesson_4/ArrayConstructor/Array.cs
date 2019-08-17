@@ -9,7 +9,7 @@ namespace ArrayConstructor
 {
     class Array
     {
-        static int[] mass;
+        int[] mass;
 
         public static int Cardinality(string txt)
         {
@@ -39,7 +39,7 @@ namespace ArrayConstructor
             return str;
         }
 
-        internal static void Print(string txt)
+        internal void Print(string txt)
         {
             string str = "";
             foreach (int i in mass)
@@ -113,7 +113,7 @@ namespace ArrayConstructor
             }
         }
 
-        public static void Multi (int multiplier)
+        public void Multi (int multiplier)
         {
             for (int i = 0; i < mass.Length; i++)
                 mass[i] *= multiplier;
@@ -149,7 +149,7 @@ namespace ArrayConstructor
             }
         }
 
-        public static void SaveToFile ()
+        public void SaveToFile ()
         {
             try
             {
@@ -167,7 +167,7 @@ namespace ArrayConstructor
             }
         }
 
-        public static void OpenFromFile ()
+        public void OpenFromFile ()
         {
             try
             {

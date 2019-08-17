@@ -26,13 +26,13 @@ namespace ArrayConstructor
             int [] mass_1 = mass.Invers;
             Console.WriteLine("Элементы массива после инверсии: {0}", mass.Print());
             int multiplier = Array.Cardinality("Введите значение, на которое умножить каждый элемент массива: ");
-            Array.Multi(multiplier);
+            mass.Multi(multiplier);
             Console.WriteLine("Элементы массива после умножения на заданное число: {0}", mass.Print());
             int maxCount = mass.MaxCount;
             Console.WriteLine("Количество максимальных значений массива: {0}", maxCount);
 
-            Array.SaveToFile();
-            Array.OpenFromFile();
+            mass.SaveToFile();
+            mass.OpenFromFile();
 
             Console.ReadKey();
         }
