@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number", "Number\Number.csproj", "{F118872F-6D74-40B6-AE2F-F9E3EAC0E5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fraction", "fraction\Fraction.csproj", "{56144DD5-D079-4101-9FDC-A15F3584D37E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complex", "Complex\Complex.csproj", "{E11E067B-9FC3-4845-901B-D1A20A985E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F118872F-6D74-40B6-AE2F-F9E3EAC0E5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F118872F-6D74-40B6-AE2F-F9E3EAC0E5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F118872F-6D74-40B6-AE2F-F9E3EAC0E5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F118872F-6D74-40B6-AE2F-F9E3EAC0E5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56144DD5-D079-4101-9FDC-A15F3584D37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56144DD5-D079-4101-9FDC-A15F3584D37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56144DD5-D079-4101-9FDC-A15F3584D37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56144DD5-D079-4101-9FDC-A15F3584D37E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11E067B-9FC3-4845-901B-D1A20A985E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11E067B-9FC3-4845-901B-D1A20A985E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11E067B-9FC3-4845-901B-D1A20A985E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11E067B-9FC3-4845-901B-D1A20A985E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {929A0291-FFA7-4D5B-AB92-D3E09D0A085F}
+	EndGlobalSection
+EndGlobal
