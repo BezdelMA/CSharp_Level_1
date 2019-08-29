@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Ques>В Японии ученики на доске пишут кисточкой с цветными чернилами?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В Австралии практикуется применение одноразовых школьных досок?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Авторучка была изобретена еще в Древнем Египте?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Шариковая ручка сначала применялась только военными летчиками?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В Африке выпускаются витаминизированные карандаши для детей, имеющих обыкновение грызть что попало?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В некоторые виды цветных карандашей добавляется экстракт моркови для большей прочности грифеля?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Римляне носили штаны?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Если пчела ужалит кого-либо, то она погибнет?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Правда ли что, пауки питаются собственной паутиной?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В одном корейском цирке двух крокодилов научили танцевать вальс.</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>На зиму пингвины улетают на север?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Если камбалу положить на шахматную доску, она тоже станет клетчатой.</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Спартанские воины перед битвой опрыскивали волосы духами.</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Мыши подрастая становятся крысами?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Некоторые лягушки умеют летать?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Дети могут слышать более высокие звуки, чем взрослые?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Глаз наполнен воздухом?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Утром вы выше ростом, чем вечером?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В некоторых местах люди по-прежнему моются с помощью оливкового масла?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Летучие мыши могут принимать радиосигналы?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Совы не могут вращать глазами?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Лось является разновидностью оленя?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Жирафы по ночам отыскивают с помощью эха листья, которыми питаются?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Дельфины — это маленькие киты?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Рог носорога обладает магической силой?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В некоторых странах жуков-светляков используют в качестве осветительных приборов?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Мартышка обычно бывает размером с котенка?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Счастливая монета Скруджа была достоинством в 10 центов?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Дуремар занимался продажей лягушек?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Мойву эскимосы сушат и едят вместо хлеба?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Радугу можно увидеть и в полночь?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Больше всего репы выращивают в России?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Слон, встречаясь с незнакомым сородичем, здоровается следующим образом — кладет ему хобот в рот?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Настоящее имя Ганса Христиана Андерсена было Свенсен?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>В медицине диагноз «синдром Мюнхгаузена» ставится пациенту, который много врет?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Рост Конька — Горбунка составляет два вершка?</Ques>
+    <Answer>false</Answer>
+  </Questions>
+  <Questions>
+    <Ques>Первое место среди причин гибели от несчастных случаев в Японии в 1995г. заняли туфли на высоком каблуке?</Ques>
+    <Answer>true</Answer>
+  </Questions>
+</ArrayOfQuestions>
