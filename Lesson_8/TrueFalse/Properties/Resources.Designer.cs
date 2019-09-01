@@ -75,9 +75,9 @@ namespace TrueFalse.Properties {
         ///    &lt;Ques&gt;Авторучка была изобретена еще в Древнем Египте?&lt;/Ques&gt;
         ///    &lt;Ans [остаток строки не уместился]&quot;;.
         /// </summary>
-        internal static string Questions_2_ {
+        internal static string Questions_2___ {
             get {
-                return ResourceManager.GetString("Questions_2_", resourceCulture);
+                return ResourceManager.GetString("Questions_2___", resourceCulture);
             }
         }
     }
