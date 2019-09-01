@@ -1,0 +1,7 @@
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\bin\Debug\_2.exe.config
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\bin\Debug\_2.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\bin\Debug\_2.pdb
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\obj\Debug\_2.csprojAssemblyReference.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\obj\Debug\_2.csproj.CoreCompileInputs.cache
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\obj\Debug\_2.exe
+C:\Users\laptop\Desktop\Обучение\C#. Уровень 1\ДЗ\Lesson_1\_2\obj\Debug\_2.pdb
